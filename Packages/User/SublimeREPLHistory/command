@@ -1,0 +1,7 @@
+-ls
+-import os
+-os.system("hello")
+-a
+-a.new
+-a
+-hello()

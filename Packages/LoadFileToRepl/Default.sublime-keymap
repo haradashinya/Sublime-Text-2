@@ -1,0 +1,10 @@
+[
+	{ "keys": ["ctrl+enter"],		"command": "load_file_to_repl"},
+
+	{ "keys": ["ctrl+shift+enter"], "command": "load_file_to_repl",
+	  "args": {
+		"clear": true,
+		"save_focus": false
+	  }
+	}
+]

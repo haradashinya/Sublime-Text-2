@@ -1,0 +1,15 @@
+{
+	"installed_packages":
+	[
+		"Autocomplete Javascript with Method Signature",
+		"LoadFileToRepl",
+		"MacTerminal",
+		"Package Control",
+		"PythonTidy",
+		"SublimeLinter",
+		"SublimeREPL",
+		"SublimeRope",
+		"Terminal",
+		"VintageEx"
+	]
+}
